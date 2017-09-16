@@ -1,6 +1,6 @@
 
 # Dependencies
-import pandas as pd
+
 import tweepy
 import time
 import json
